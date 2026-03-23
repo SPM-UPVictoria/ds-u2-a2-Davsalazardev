@@ -1,0 +1,3 @@
+/Users/vaa/Documents/Said/Unidad 2/Actividad 1/build/CMakeFiles/SistemaMensajeria.dir
+/Users/vaa/Documents/Said/Unidad 2/Actividad 1/build/CMakeFiles/edit_cache.dir
+/Users/vaa/Documents/Said/Unidad 2/Actividad 1/build/CMakeFiles/rebuild_cache.dir
